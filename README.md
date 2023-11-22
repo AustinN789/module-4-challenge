@@ -23,6 +23,8 @@ THEN I can save my initials and score
 
 https://www.youtube.com/watch?v=rFWbAj40JrQ&list=PLB6wlEeCDJ5Yyh6P2N6Q_9JijB6v4UejF&ab_channel=JamesQQuick
 
+Inspired by web AI code quiz master on github.
+
 
 ## Credits
 N/A
