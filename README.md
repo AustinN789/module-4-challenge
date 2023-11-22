@@ -19,6 +19,9 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ## Note
+ watch youtube video : https://www.youtube.com/watch?v=AFTvxsVv52k&t=2s&ab_channel=WilliamHorn
+
+https://www.youtube.com/watch?v=rFWbAj40JrQ&list=PLB6wlEeCDJ5Yyh6P2N6Q_9JijB6v4UejF&ab_channel=JamesQQuick
 
 
 ## Credits
@@ -28,7 +31,10 @@ N/A
 Please refer to the LICENSE in the repo.
 
 ## screenshot
-
-
+![Screenshot1](Assets/1.png)
+![Screenshot1](Assets/2.png)
+![Screenshot1](Assets/3.png)
+![Screenshot1](Assets/4.png)
 ## URL
 
+git@github.com:AustinN789/module-4-challenge.git
